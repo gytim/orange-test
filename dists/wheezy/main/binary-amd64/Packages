@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: all
 Maintainer: Mickievich Kastus' <mitrat2@mail.ru>
 Installed-Size: 173888
-Depends: python2.7, python-scipy, python-destribute, python-qt4
+Depends: python2.7, python-scipy, python-qt4
 Homepage: https://github.com/biolab/orange
 Priority: extra
 Section: misc
