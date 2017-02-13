@@ -1,27 +1,27 @@
 Origin: Orange
 Label: orange-canvas create by Kastus'
 Codename: wheezy
-Date: Mon, 13 Feb 2017 14:39:31 UTC
+Date: Mon, 13 Feb 2017 18:54:33 UTC
 Architectures: amd64
 Components: main
 Description: tusk orange
 MD5Sum:
- 384f0ea436a971d08edcee038bdcc039 573 main/binary-amd64/Packages
- 8a5ec60c7a5b5d2e6c9b3c6a72a4a74c 401 main/binary-amd64/Packages.gz
+ 1d71ff02069bfb71c5f1197c18563d49 573 main/binary-amd64/Packages
+ 5aadd9b7e3f6a719fa2fc8bc483b440d 402 main/binary-amd64/Packages.gz
  e3e27a05104413196f99dad17af50879 115 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  c10ce535bb451dca27e449ffb031cd7f 116 main/source/Release
 SHA1:
- a6633ed888078b02078a881c23ad51f222a48bd2 573 main/binary-amd64/Packages
- 56929f593e879bf35a7885b294810e78546d450e 401 main/binary-amd64/Packages.gz
+ 8c8e34d0b6656b255002a68c37551ae6ed6dc626 573 main/binary-amd64/Packages
+ c8ec7003ad84dd24ab487ada09ffa5794d9aa743 402 main/binary-amd64/Packages.gz
  d9f837068e3905a28c9fdf8f8e401d4a7240e5c1 115 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  14a9738ce7684640b602c0de3e6895406a7066f3 116 main/source/Release
 SHA256:
- 4643945cb6ebdae09e584caeb11927608306dada23b94a91a4d3ebdb9b5e115d 573 main/binary-amd64/Packages
- 000a85424bd5604e912e7c23522ac00b06895a92a92a47a440ed5a5c930fa78d 401 main/binary-amd64/Packages.gz
+ b123260d25f26055f126de2082c910147cc1e02664d6205082bd811d5f2a6eea 573 main/binary-amd64/Packages
+ 5e6fb6ee8e5e4a6f14d775368c1747b1291ab4c9de04e19707a587b4ef5e63ab 402 main/binary-amd64/Packages.gz
  ba56060b7f2542a582717160c1b13c88edebdd00b902e14c3325ba17c6dfc57f 115 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
