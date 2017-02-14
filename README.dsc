@@ -1,3 +1,6 @@
+sudo apt-get install apt-transport-https
+https://raw.githubusercontent.com/gytim/orange-test/master/
+
 В папке 'other' лежат архивы orign и debian.
 
 orign
