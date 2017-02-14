@@ -2,16 +2,16 @@ Package: orange-canvas
 Version: 1.0
 Architecture: all
 Maintainer: Mickievich Kastus' <mitrat2@mail.ru>
-Installed-Size: 173888
+Installed-Size: 173889
 Pre-Depends: python2.7, python-scipy, python-qt4
 Homepage: https://github.com/biolab/orange
 Priority: extra
 Section: misc
 Filename: pool/main/o/orange-canvas/orange-canvas_1.0_all.deb
-Size: 43060730
-SHA256: bf71a40b13c4b73f3d5f54d6dc69ba01c9a70d16e97fdc37ed942a56694803aa
-SHA1: a1dd34e2c60d7ab700ed54d49a00d635cd3010b0
-MD5sum: 5f22d37179fff623c0ec9d347a3b8519
+Size: 43061034
+SHA256: 39db43a4195256e680afa7808a2ce1f9d80d432e5572a2937bde7daaf5e3bff2
+SHA1: fbf5cff46f88500dc406357b14ff75d92e6d69e9
+MD5sum: 69959d8f4074604b8454a64156d83340
 Description: orange-canvas python 2.7
  It is test orange-canvas and it use python 2.7
 
